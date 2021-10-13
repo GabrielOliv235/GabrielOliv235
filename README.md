@@ -1,6 +1,6 @@
 ###Gabriel###
 
-EMAIL PARA CONTATO : gabrieloliveriaguinda@gmail.com 
+EMAIL PARA CONTATO : gabrieloliveiraguinda@gmail.com 
 
 
 
