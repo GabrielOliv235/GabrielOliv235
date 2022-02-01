@@ -2,7 +2,7 @@
 
 EMAIL PARA CONTATO : gabrieloliveiraguinda@gmail.com 
 
-<a href="https://www.instagram.com/gaabs235" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
+<a href="https://www.instagram.com/cripto_g_sailor" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
 
 
 <img align="center" alt="Gaabs-Java" height="30" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
