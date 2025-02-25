@@ -3,9 +3,6 @@
 EMAIL PARA CONTATO : gabrieloliveiraguinda@gmail.com 
 
 
-<img align="center" alt="Gaabs-Java" height="30" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</div> 
-
 
 <p><img align=left src="https://c.tenor.com/AfmxAKK5-j4AAAAC/madara-uchiha-sharingan.gif" width=300 >
  <div>
