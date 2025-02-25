@@ -2,7 +2,7 @@
 
 EMAIL PARA CONTATO : gabrieloliveiraguinda@gmail.com 
 
-LinkedIn 	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oliveira-de-souza-guinda-46788b18b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oliveira-de-souza-guinda-46788b18b/)
 
 <p><img align=left src="https://c.tenor.com/AfmxAKK5-j4AAAAC/madara-uchiha-sharingan.gif" width=300 >
  <div>
